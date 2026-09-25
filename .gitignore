@@ -1,0 +1,5 @@
+# Environment variables and local Python environment
+.env
+.env.*
+!.env.example
+.venv/
